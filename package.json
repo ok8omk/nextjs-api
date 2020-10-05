@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tomoki-oke <tomoki.oke@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/webhooks": "^7.11.4",
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.11.2",
+    "@types/react": "^16.9.50",
+    "typescript": "^4.0.3",
+    "vercel": "^20.1.1"
+  }
+}
